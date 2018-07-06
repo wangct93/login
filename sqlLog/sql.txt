@@ -1,0 +1,40 @@
+select password from user where name=c
+*******************************************
+select password from user where name=c
+*******************************************
+select password from user where name='c'
+*******************************************
+select password from user where name='c'
+*******************************************
+select password from user where name='wangct'
+*******************************************
+select password from user where name='wangct'
+*******************************************
+select password from user where name='wangct'
+*******************************************
+select password from user where name='wangct'
+*******************************************
+select password from user where name='wangct'
+*******************************************
+select * from user where name='wangct'
+*******************************************
+select * from user where name='wangct'
+*******************************************
+select * from user where name='wangct'
+*******************************************
+select * from user where name='c'
+*******************************************
+select * from user where name='c'
+*******************************************
+select * from user where name='c'
+*******************************************
+select * from user where name='wangct'
+*******************************************
+select * from user where name='wangct'
+*******************************************
+select * from user where name='wangct'
+*******************************************
+select * from user where name='wangct'
+*******************************************
+select * from user where name='wangct'
+*******************************************

@@ -1,0 +1,8 @@
+{
+  "AppId": "1256164624",
+  "SecretId": "AKIDLZcq7ISryvhJl1rC3iCUaUDrOSybol4C",
+  "SecretKey": "44sX1LZcVJxWvwra8ZptlRvHyYyDgy99",
+  "Bucket":"ycc",
+  "Region":"ap-beijing",
+  "wxBucket":"ocr"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "login",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "wt-butil": "^1.0.21",
+    "wt-sutil": "^1.0.27",
+    "wt-util": "^1.3.5"
+  }
+}

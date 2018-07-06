@@ -1,0 +1,4 @@
+{"code":"ER_BAD_FIELD_ERROR","errno":1054,"sqlMessage":"Unknown column 'c' in 'where clause'","sqlState":"42S22","index":0,"sql":"select password from user where name=c"}
+*******************************************
+{"code":"ER_BAD_FIELD_ERROR","errno":1054,"sqlMessage":"Unknown column 'c' in 'where clause'","sqlState":"42S22","index":0,"sql":"select password from user where name=c"}
+*******************************************
